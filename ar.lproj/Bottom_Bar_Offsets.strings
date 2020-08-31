@@ -1,0 +1,12 @@
+{
+    "BOTTOM_BAR" = "الشريط السفلي";
+    "LEFT_OFFSET" = "إزاحة لليسار";
+    "LEFT_OFFSET_LABEL" = "إزاحة لليسار:";
+    "LEFT_OFFSET_FOOTER" = "• الإزاحة اليسرى الإفتراضية = ٦٥";
+    "RIGHT_OFFSET" = "إزاحة لليمين";
+    "RIGHT_OFFSET_LABEL" = "إزاحة لليمين:";
+    "RIGHT_OFFSET_FOOTER" = "• الإزاحة اليمنى الإفتراضية = -٦٥";
+    "BOTTOM_OFFSET" = "الإزاحة للأسفل";
+    "BOTTOM_OFFSET_LABEL" = "الإزاحة للأسفل:";
+    "BOTTOM_OFFSET_FOOTER" = "• الإزاحة السفلية الإفتراضية = ٠:";
+}
