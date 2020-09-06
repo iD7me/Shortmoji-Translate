@@ -13,7 +13,7 @@
     "Undo" = "تراجع";
     "Redo" = "إستعادة";
     "Capitalized Case" = "تكبير أول حرف";
-    "Uppercase" = "أحرف كبير";
+    "Uppercase" = "أحرف كبيرة";
     "Lowercase" = "أحرف صغيرة";
     "Dismiss keyboard" = "إغلاق لوحة المفاتيح";
     "CopyLog" = "CopyLog";
@@ -46,4 +46,8 @@
     "Favorite Languages" = "اللغات المفضلة";
     "All Languages" = "كل اللغات";
     "New Line" = "سطر جديد";
+    "Text Direction Right To Left" = "إتجاه النص من اليمين لليسار";
+    "Text Direction Left To Right" = "إتجاه النص من اليسار لليمين";
+    "Show Text Style Options" = "عرض خيارات تنسيق النص";
+    "Share" = "مشاركة";
 }
