@@ -68,7 +68,7 @@
     "ACTIVATOR_SHORTCUTS_FOOTER" = "• هذا الخيار سيؤدي إلى إنشاء اختصار جديد وإضافته إلى "الإختصارات الممكنة" بحيث تستطيع استخدام خيارات Activator.";
     "ACTIVATOR_SHORTCUTS_FOOTER2" = "• اضغط على أي اختصار لـ Activator لتعديله .";
     "Default" = "إفتراضي";
-    "ENABLED_SHORTCUTS_FOOTER" = "• اضغط على أي اختصار لتحديد حركة للضغط المطول.\n• الخيار الإفتراضي سوف يستخدم الوظائف أدناه.";
+    "ENABLED_SHORTCUTS_FOOTER" = "• اضغط على أي اختصار لتحديد إجراء للضغط المطول.\n• الخيار الإفتراضي سوف يستخدم الإجرائات أدناه.";
     "Activator Shortcuts" = "إختصارات Activator";
     "Add Activator Shortcut" = "إضافة إختصار لـ Activator";
     "Tap to edit" = "اضغط للتحرير";
