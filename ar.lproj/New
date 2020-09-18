@@ -1,0 +1,104 @@
+"LEFT_OFFSET" = "Left Offset";
+    "LEFT_OFFSET_LABEL" = "Left Offset:";
+    "LEFT_OFFSET_FOOTER" = "• Default Left Offset = 0";
+    "RIGHT_OFFSET" = "Right Offset";
+    "RIGHT_OFFSET_LABEL" = "Right Offset:";
+    "RIGHT_OFFSET_FOOTER" = "• Default Right Offset = 0";
+    "BOTTOM_OFFSET" = "Bottom Offset";
+    "BOTTOM_OFFSET_LABEL" = "Bottom Offset:";
+    "BOTTOM_OFFSET_FOOTER" = "• Default Bottom Offset = 0";
+ 
+    "THEMES" = "Themes";
+    "THEMES_FOOTER" = "• Reset, import, export and share your settings.";
+ 
+    "Airplane Mode" = "نمط الطيران";
+    "Auto Brightness" = "السطوع التلقائي";
+    "Auto Lock" = "القفل التلقائي";
+    "Bluetooth" = "البلوتوث";
+    "Cellular Data" = "البيانات الخلوية";
+    "Dark Mode" = "النمط الداكن";
+    "Do Not Disturb" = "عدم الإزعاج";
+    "Flashlight" = "المصباح اليدوي";
+    "Hotspot" = "نقطة اتصال شخصية";
+    "Location Services" = "خدمات المواقع";
+    "Low Power" = "نمط الطاقة المنخفضة";
+    "Night Shift" = "إضاءة دافئة";
+    "Record Screen" = "تسجيل فيديو للشاشة";
+    "Ringer" = "نمط الصامت";
+    "Rotation" = "الإتجاه الرأسي";
+    "Rotation Lock" = "قفل الإتجاه الرأسي";
+    "Vibration" = "الإهتزاز";
+    "VPN" = "VPN";
+    "Wi-Fi" = "الواي فاي";
+ 
+    "AVAILABLE_THEME" = "Available Themes";
+    "THEME_FOOTER" = "• Tap on any theme to manage it.";
+    "NEW_THEME" = "New Theme";
+    "NEW_THEME_MESSAGE" = "This will create a New Theme with your current settings, Please enter a name:";
+    "NAME" = "Name";
+    "OPTIONS" = "Options";
+    "IMPORT_FROM_CLIPBOARD" = "Import From Clipboard";
+    "IMPORT_SUCCESSFUL" = "Import Successful";
+    "IMPORT_SUCCESSFUL_MESSAGE" = "Your theme was imported successfully.";
+    "IMPORT_FAILED" = "Import Failed";
+    "IMPORT_FAILED_MESSAGE" = "Please make sure that you have a valid Shortmoji theme in your clipboard and try again.";
+    "EXPORT_TO_CLIPBOARD" = "Export to Clipboard";
+    "EXPORT_SUCCESSFUL" = "Export Successful";
+    "EXPORT_SUCCESSFUL_MESSAGE" = "A unique string containing this theme has been copied to the clipboard.";
+    "EXPORT_FAILED" = "Export Failed";
+    "EXPORT_FAILED_MESSAGE" = "You can't export default Shortmoji settings, Please make some changes to your settings and try again.";
+    "APPLIED_SUCCESSFULLY" = "Applied Successfully";
+    "APPLIED_SUCCESSFULLY_MESSAGE" = "Theme was applied successfully into Shortmoji, Please respring to fully apply changes.";
+    "SAVE_CURRENT_THEME" = "Save Current Theme";
+    "RESET_ALL_SETTINGS" = "Reset All Settings";
+    "RESET_ALL_SETTINGS_FOOTER" = "• If you have any issues, Please reset settings.";
+    "SELECT_ACTION_FOR_PRESET_MESSAGE" = "Select an action for this theme";
+    "APPLY_THEME" = "Apply Theme";
+    "DELETE" = "Delete";
+    "WELCOME_HEADER" = "أداة لوحة مفاتيح مطلقة لم تتوفر من قبل على نظام iOS";
+    "WELCOME_LIST_1_HEADER" = "الرموز التعبيرية و الإختصارات";
+    "WELCOME_LIST_1_BODY" = "وصول سريع للرموز التعبيرية و الإختصارات مباشرةً من الشريط السفلي للكيبورد أو شريط التنبؤ.";
+    "WELCOME_LIST_2_HEADER" = "والكثير أيضاً!";
+    "WELCOME_LIST_2_BODY" = "الكثير من المميزات والتخصيصات للوحة المفاتيح، تستطيع إكتشاف ذلك في إعدادات Shortmoji :).";
+    "CONTINUE" = "إستمرار";
+    "WELCOME_FOOTER" = "🥰 شكراً لك على تثبيت Shortmoji  🥰";
+    "DONE" = "تم";
+    "EDIT" = "تحرير";
+    "Activator Shortcuts" = "إختصارات Activator";
+    "ACTIVATOR_SHORTCUTS_FOOTER" = "• هذا الخيار سيؤدي إلى إنشاء اختصار جديد وإضافته إلى "الإختصارات الممكنة" بحيث تستطيع استخدام خيارات Activator.";
+    "ACTIVATOR_SHORTCUTS_FOOTER2" = "• اضغط على أي اختصار لـ Activator لتعديله .";
+    "Default" = "إفتراضي";
+    "ENABLED_SHORTCUTS_FOOTER" = "• اضغط على أي اختصار لتحديد حركة للضغط المطول.\n• الخيار الإفتراضي سوف يستخدم الوظائف أدناه.";
+    "Activator Shortcuts" = "إختصارات Activator";
+    "Add Activator Shortcut" = "إضافة إختصار لـ Activator";
+    "Tap to edit" = "اضغط للتحرير";
+    "NEW_ACTIVATOR_SHORTCUT" = "اختصار Activator جديد";
+    "NEW_ACTIVATOR_SHORTCUT_MESSAGE" = "سيؤدي هذا إلى إنشاء اختصار جديد وإضافته للإختصارات الممكنة ، يرجى إدخال اسم:";
+    "CHANGE_ACTIVATOR" = "تغيير Activator";
+    "EDIT_ACTIVATOR_SHORTCUT_MESSAGE" = "Rename or change the Activator listener for the shortcut";
+    "SHORTCUTS_ICONS" = "Shortcuts Icons";
+    "SHORTCUTS_ICONS_FOOTER" = "• Tap on any shortcut to change its icon.";
+    "Search Icons" = "Search Icons";
+    "BoldStyle" = "𝗕𝗼𝗹𝗱 Style";
+    "ItalicStyle" = "𝘐𝘵𝘢𝘭𝘪𝘤 Style";
+    "BoldItalicStyle" = "𝘽𝙤𝙡𝙙 𝙄𝙩𝙖𝙡𝙞𝙘";
+    "SerifBoldStyle" = "𝐒𝐞𝐫𝐢𝐟 𝐁𝐨𝐥𝐝";
+    "SerifItalicStyle" = "𝑆𝑒𝑟𝑖𝑓 𝐼𝑡𝑎𝑙𝑖𝑐";
+    "SerifBoldItalicStyle" = "𝑺𝒆𝒓𝒊𝒇 𝑩𝒐𝒍𝒅 𝑰𝒕𝒂𝒍𝒊𝒄";
+    "MonoStyle" = "𝙼𝚘𝚗𝚘";
+    "ScriptStyle" = "𝒮𝒸𝓇𝒾𝓅𝓉";
+    "ScriptBoldStyle" = "𝓢𝓬𝓻𝓲𝓹𝓽 𝓑𝓸𝓵𝓭";
+    "GothicStyle" = "𝔊𝔬𝔱𝔥𝔦𝔠";
+    "GothicBoldStyle" = "𝕲𝖔𝖙𝖍𝖎𝖈 𝕭𝖔𝖑𝖉";
+    "HollowStyle" = "ℍ𝕠𝕝𝕝𝕠𝕨";
+    "SmallCapsStyle" = "Sᴍᴀʟʟ Cᴀᴘs";
+    "RussianStyle" = "ЯЦSSIДИ";
+    "GreekStyle" = "GRΣΣҜ";
+    "CopperplateStyle" = "ᏟᎾᏢᏢᎬᎡᏢᏞᎪᎢᎬ";
+    "WideStyle" = "ｗｉｄｅ";
+    "CircledStyle" = "ⒸⒾⓇⒸⓁⒺⒹ";
+    "CircledFilledStyle" = "🅒🅘🅡🅒🅛🅔🅓";
+    "BoxedStyle" = "🄱🄾🅇🄴🄳";
+    "BoxedFilledStyle" = "🅱🅾🆇🅴🅳";
+    "ZalgoStyle" = "ẕ̶̞̩̮̺̞̽͂͘ͅa̵̻̱̩̲͍̅̇̄̀̏̌̒̽̊͝ͅl̷̼̙͗̀̈̂̔̕ġ̷͙̻̘̮̊́͑̋͂̇̔̔͝o̶̲̙̻̝̺̥̗̹͋͛̽";
+ 
